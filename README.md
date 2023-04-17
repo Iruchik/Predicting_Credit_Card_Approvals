@@ -1,1 +1,1 @@
-# Predicting_Credit_Card_Approvals
+Python project on DataCamp.
